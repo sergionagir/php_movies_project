@@ -1,15 +1,3 @@
-<h1 align="left">Grupo 7  - Trabajo Integrador - Codo a  Codo - Comisión 24145</h1>
-
-###
-
-<h2 align="left">Integrantes</h2>
-
-###
-
-<p align="left">- Lucila Velardez<br>- Rosario Esquivel<br>- Sergio Nagir<br>- Baltasar Ortiz</p>
-
-###
-
 <h2 align="left">Hosting del Proyecto</h2>
 
 ###
